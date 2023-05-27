@@ -1,0 +1,335 @@
+2021-09-09 18:16:12,856 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-09-09 18:16:13,619 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-09-09 18:21:52,638 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-09-09 18:24:49,622 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.04740339029081311, best pos: [1 0 1 ... 1 1 1]
+2021-09-09 18:28:49,579 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-09-09 18:28:50,621 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-09-09 18:37:46,153 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-09-09 18:40:51,654 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.042502437321842085, best pos: [1 0 1 ... 1 1 0]
+2021-09-09 18:46:04,720 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-09-09 18:46:05,560 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-09-09 18:58:13,426 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-09-09 19:01:38,759 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.0068041751137505255, best pos: [1 1 1 ... 1 1 1]
+2021-09-09 19:06:10,642 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-09-09 19:06:11,660 - tensorflow - WARNING - From C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-09-09 19:19:27,688 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2021-09-09 19:24:22,746 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.041997214186220946, best pos: [1 0 0 ... 1 0 1]
+2021-09-22 17:23:49,039 - tensorflow - WARNING - From C:\Users\Venkat\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-09-22 17:23:52,329 - tensorflow - WARNING - From C:\Users\Venkat\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2021-11-22 01:36:52,222 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-11-22 01:36:55,884 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-11-22 01:36:56,200 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-11-22 01:36:56,920 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+2021-11-22 01:36:56,939 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2021-11-22 01:36:57,032 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2021-11-22 01:36:57,070 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:3376: The name tf.log is deprecated. Please use tf.math.log instead.
+
+2021-11-22 01:36:57,082 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-11-22 09:24:26,575 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-11-22 09:24:37,430 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-11-22 09:24:37,745 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-11-22 09:24:38,601 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+2021-11-22 09:24:38,615 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2021-11-22 09:24:38,789 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2021-11-22 09:24:38,849 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:3376: The name tf.log is deprecated. Please use tf.math.log instead.
+
+2021-11-22 09:24:38,870 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2021-12-10 16:48:55,277 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2021-12-10 16:49:01,769 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2021-12-10 16:49:02,561 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2021-12-10 16:49:04,430 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:133: The name tf.placeholder_with_default is deprecated. Please use tf.compat.v1.placeholder_with_default instead.
+
+2021-12-10 16:49:04,475 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2021-12-10 16:49:04,549 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\optimizers.py:790: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2021-12-10 16:49:04,606 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\keras\backend\tensorflow_backend.py:3376: The name tf.log is deprecated. Please use tf.math.log instead.
+
+2021-12-10 16:49:04,621 - tensorflow - WARNING - From C:\Users\Lenovo\AppData\Local\Programs\Python\Python37\lib\site-packages\tensorflow\python\ops\nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2023-04-04 17:20:52,342 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-04 17:21:40,648 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.05147619487117467, best pos: [1 0 0 ... 0 1 1]
+2023-04-04 17:38:37,065 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-04 17:40:00,438 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.039229901775134114, best pos: [1 0 1 ... 0 0 0]
+2023-04-04 17:52:22,815 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-04 17:53:45,899 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.052154295468119574, best pos: [1 1 1 ... 1 1 0]
+2023-04-04 19:29:48,838 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-04 19:31:53,224 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.05953727484609597, best pos: [0 0 0 ... 1 0 0]
+2023-04-04 19:42:19,121 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-04 19:44:45,267 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.05737609440789786, best pos: [1 0 1 ... 1 1 1]
+2023-04-10 20:03:40,318 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-10 20:06:16,853 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.0470759245644912, best pos: [1 1 1 ... 1 0 1]
+2023-04-10 20:28:28,215 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-10 20:30:34,961 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.022289692807274913, best pos: [1 1 1 ... 0 1 0]
+2023-04-11 11:52:03,530 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-11 11:52:04,680 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.16478858244937317, best pos: [1 0 1 1 0 0 1 0 0 1 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 1 0
+ 0 0 1 1 1 1 1 0 0 1 1 0 1 1 1 0 0 0 1 1 1 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 1
+ 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 0 1 0 0 1 1 0 1 1 1 1 1 1 1 0 0 1 0 1
+ 0 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 1 1 0 1 1 0 1 1 0 0 0 1 0 0 0 0 0 1 1 0 1
+ 1 1 1 1 1 0 0 1 0 0 1 0 1 1 1 1 1 1 0 1 1 1 0 1 1 1 0 1 1 1 0 1 0 0 1 1 0
+ 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 1 1 0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 1 1
+ 1 1 1 0 0 0 0 1 1 1 0 0 0 1 0 0 1 1 0 1 1 1 0 0 0 1 1 1 1 0 1 0 1 0 1 1 1
+ 1 0 0 1 0 1 0 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+ 1 1 0 1 0 0 1 0 0 0 0 1 1 1 1 0 1 1 0 0 1 1 0 0 1 0 1 0 1 1 0 1 0 1 1 0 1
+ 1 0 1 1 0 0 0 1 1 1 1 1 1 0 0 1 1 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0
+ 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 1 0 1 0 1 1 0 0 1 1 1 1 1 0 1 0 0 1 0 1
+ 0 1 0 0 1 0 1 0 0 1 1 0 1 1 0 1 1 1 0 1 1 0 1 0 1 0 1 0 1 1 1 1 1 1 0 1 1
+ 0 0 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 0 0 0 1 0 0 1 1 1 1 0 1 1 0
+ 1 0 1 0 1 0 1 1 1 0 0 1 0 0 0 0 0 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 0 1 0 1
+ 1 0 0 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1
+ 1 0 1 1 0 1 1 0 0 0 0 1 0 1 1 0 1 1]
+2023-04-11 11:59:12,638 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-11 11:59:13,642 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.20235139826422374, best pos: [1 1 0 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 1 0 0
+ 0 1 1 1 1 0 1 0 0 1 0 1 1 0 1 1 1 1 1 1 1 0 1 0 0 0 1 1 0 1 1 0 1 1 0 0 1
+ 1 0 1 0 0 0 1 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 0 1 1 1 1 1 1 1 1 0 0 0 1 0
+ 1 0 1 0 1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 1 1 1 1
+ 1 1 0 1 1 1 1 1 1 1 0 1 1 1 0 1 0 1 0 1 0 0 1 0 1 1 1 1 0 1 1 0 1 0 1 1 1
+ 1 0 1 0 0 1 0 1 0 0 1 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 1 0 0 0 1 1 0 1 1 0 1
+ 0 1 1 0 1 1 1 1 1 0 1 1 1 1 0 0 0 0 1 0 0 1 0 0 1 0 1 1 1 1 0 1 1 1 1 1 0
+ 1 0 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 1 1 1 0 1 1 0 1 0 1 1 0 1 1 0 1 0 1
+ 0 0 1 1 0 1 0 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 1 1 0
+ 0 1 1 0 1 0 1 1 1 0 1 0 0 1 1 1 1 1 0 0 0 0 1 0 1 1 1 0 1 1 0 0 0 1 1 1 0
+ 0 1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 0 1 0
+ 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 1 1 0 0 1 1 1 1 0 1 1 0 1 1 0 1 1 1 1 0 1
+ 0 1 1 0 0 1 0 1 0 0 0 0 0 0 1 1 1 0 1 0 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 1
+ 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 0 1 1
+ 1 1 0 0 1 0 1 1 1 1 1 0 1 0 1 1 1 0 0 0 1 1 1 1 1 0 0 1 1 1 0 1 1 0 1 0 1
+ 1 0 0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 0]
+2023-04-11 12:05:08,576 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-11 12:05:09,588 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.1746300482160077, best pos: [1 1 0 0 1 1 0 1 0 1 0 0 0 0 1 0 1 1 0 0 1 0 0 1 0 1 1 1 1 1 1 0 0 1 1 0 1
+ 1 0 0 0 1 1 0 0 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 1 1 0 1 1 0 0 0 1 0 0 1
+ 1 1 0 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1 1 0 1 1 1 0 1 1 0 0 1 1 0 0 1 1 0 0 1
+ 0 1 0 1 1 0 1 0 1 0 1 1 0 0 0 1 0 1 0 0 1 1 1 0 0 0 1 0 0 0 1 1 0 0 1 1 0
+ 0 1 0 0 1 1 1 1 1 1 1 0 1 0 1 0 0 1 1 0 0 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0
+ 0 1 0 1 1 0 1 1 1 0 0 1 1 0 1 1 0 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 1 1 1
+ 0 0 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 1 0 1 0 1 0 1 1 1 1 1 0 1 1 0 1 0 1 0 0
+ 1 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 0 1 1 1 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0
+ 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1 1 1 1 1 0 0 1 0 0 1 0 0 1 0 1 0 0 1 1 1 1 1
+ 1 1 1 0 0 1 0 1 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1
+ 0 1 1 0 0 1 0 0 0 1 0 1 1 0 1 1 1 0 0 1 1 0 1 0 1 1 1 0 1 1 0 1 0 0 0 0 1
+ 1 1 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 1 1 1 1 0 0 1 1 0 1 0 1
+ 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 1 1 1 0
+ 0 0 0 1 1 1 0 1 1 1 0 0 1 1 0 0 1 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 1 1
+ 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1 1 1 0 1 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 1 0 0 1 0 1 1 0 1 0 1 0 1 0 1]
+2023-04-11 12:19:02,503 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-11 12:19:03,613 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.18123139826422371, best pos: [1 1 1 1 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 0 1 1 0 1 1 0 1 1 1 0 1
+ 0 1 1 0 0 1 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 0 1 1 1 1 1 0 1 0 1 1 0 1 1 1
+ 1 1 0 0 0 1 0 0 1 0 0 1 0 0 0 1 1 1 1 0 1 0 0 0 0 1 0 1 1 0 0 0 1 1 1 0 1
+ 1 0 0 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 1 1 0 0 0 0 1 0 1 1 0 1 1 0 0 1 0 1 1
+ 1 1 1 1 1 1 0 1 1 1 1 0 0 1 0 0 0 1 1 1 0 1 1 1 1 1 1 0 1 0 0 0 1 1 0 1 1
+ 1 1 0 0 0 0 1 1 0 0 0 1 1 1 0 1 1 0 1 0 1 1 1 0 1 1 1 1 1 1 0 1 1 0 1 1 0
+ 1 1 1 1 1 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 0 0 1 1 1 0 1 1 0 1 0 1 1 0 1 0 0
+ 0 0 0 1 1 1 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 1 0 0 1 1 1 1 1 1 1 0 0 0 1 1
+ 1 0 1 1 0 0 1 0 1 0 0 1 1 1 1 0 1 0 1 1 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1
+ 0 1 1 1 1 1 1 0 0 1 1 1 1 1 0 1 0 1 1 1 0 0 0 1 1 0 1 1 0 1 0 1 1 1 0 0 1
+ 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 0 1 1 1 0 0 1 0 1 1 1
+ 0 1 0 1 1 1 1 0 1 0 0 0 1 1 0 1 1 0 1 1 0 0 1 1 1 0 0 1 1 0 1 1 1 1 0 0 1
+ 1 1 1 0 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 1 1 0 1 1 1 0 0 1 1 0 1 1 1
+ 0 1 1 0 1 0 0 0 0 1 1 0 1 0 1 0 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 0 0 1 0
+ 1 1 0 0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 0 0 1 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1
+ 1 0 1 0 1 1 1 1 0 0 0 1 1 1 1 1 1 1]
+2023-04-11 12:26:25,106 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-11 12:26:26,135 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19544594021215045, best pos: [0 1 0 1 0 0 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 1 0
+ 1 0 0 1 1 0 0 0 0 0 1 1 0 0 0 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 1 1 0 1 0 0 1
+ 0 1 0 0 0 1 0 1 1 1 0 1 0 1 1 1 1 0 1 0 1 1 0 1 0 1 0 0 0 0 0 1 0 0 0 1 0
+ 0 1 1 0 1 0 0 0 1 0 1 1 0 1 1 0 0 1 1 0 0 1 0 1 0 0 1 1 0 1 0 0 1 0 0 0 1
+ 1 1 0 0 1 1 0 1 0 1 0 0 1 1 0 1 0 0 0 1 1 1 1 0 1 0 1 1 1 1 0 0 0 0 0 1 1
+ 1 1 0 1 1 1 1 0 1 0 0 1 0 1 1 1 1 1 1 1 0 1 1 0 1 0 1 0 1 1 1 1 1 1 0 1 1
+ 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 1 0 0
+ 1 0 1 1 1 0 1 0 0 1 1 1 1 0 0 1 1 0 1 1 1 1 0 0 1 0 0 0 1 1 1 0 0 1 1 1 0
+ 1 0 1 1 1 0 0 0 1 1 1 1 0 1 0 1 0 1 1 0 0 1 1 0 1 1 1 0 1 0 0 1 0 0 0 1 1
+ 1 0 0 0 1 1 1 1 0 0 0 0 1 1 0 1 0 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 0 1 1 1 0
+ 0 1 0 1 0 0 1 0 0 1 0 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 0 0 0 1 0 1 1 1 1 1 0 0 1 0 1 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0
+ 0 0 1 0 0 1 0 1 0 1 0 0 1 1 0 0 1 1 1 0 0 1 1 1 0 0 0 0 0 1 1 0 0 1 0 0 0
+ 1 1 0 0 0 1 0 1 0 0 0 1 1 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0
+ 1 0 1 0 1 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 1 0 0 0 1 1 0 1 0 1 0 0 1 1
+ 0 0 0 0 0 0 1 1 1 0 1 1 0 0 1 0 0 0]
+2023-04-11 12:27:33,419 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-11 12:27:34,346 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.20237022179363548, best pos: [1 0 1 0 1 0 1 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0 1 0 0 1 0 1 1 1 1 0 1 0 1 1 1
+ 0 0 0 1 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0 1 1 1 1 0 1 1
+ 0 1 0 1 1 0 1 1 0 1 1 1 0 0 1 0 0 0 1 1 0 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1
+ 0 1 1 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 1 1 1 1 0 0 1 0 0 1 1 0 1 0 1 1 0 1 1
+ 1 0 1 1 1 0 0 0 1 0 1 1 0 0 1 1 1 0 0 1 1 0 1 1 0 0 1 0 0 0 1 1 0 1 1 0 1
+ 1 1 0 0 1 0 0 1 0 1 1 1 0 1 1 1 0 1 0 1 1 0 0 0 1 1 1 1 1 1 1 1 0 0 0 1 0
+ 1 1 0 0 0 0 0 1 1 1 1 0 1 1 1 0 1 1 1 0 1 0 0 1 0 1 0 1 0 1 1 1 1 1 0 1 1
+ 0 1 0 0 1 0 0 0 1 1 1 0 1 0 0 0 0 1 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1 0 0 1 0
+ 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 1 1 0 1 1 0 0 0 1
+ 0 0 0 0 0 1 1 0 1 1 1 0 1 1 0 1 0 1 0 1 1 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 1
+ 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 1 1 0 0 1
+ 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 0 1 1 0 1 1 1 0 0 0 1 1 0 1 0
+ 1 0 0 1 1 0 0 0 1 0 1 1 0 1 1 0 0 1 1 1 0 1 1 0 1 0 0 0 1 0 0 0 0 0 1 1 0
+ 1 0 1 0 1 1 1 1 1 1 0 1 1 0 0 0 1 1 0 1 1 1 0 0 1 1 0 1 0 1 1 0 0 0 0 0 1
+ 0 0 1 0 1 1 1 1 0 1 0 1 1 1 0 1 0 0 0 0 1 1 0 1 1 1 0 0 1 1 0 1 0 0 1 0 1
+ 1 0 1 0 1 1 0 0 1 1 1 0 0 0 0 0 1 0]
+2023-04-11 19:36:56,448 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-11 19:36:57,633 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.18030565091610412, best pos: [1 1 0 1 1 1 0 1 1 1 0 1 1 1 1 1 0 0 1 1 0 0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 0
+ 0 0 0 1 0 0 0 0 1 0 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 1 0 1 0 1 0 1 1 1 0
+ 0 0 0 1 1 1 1 1 1 0 1 1 1 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 1 0 1 1 1 0 1 0
+ 1 1 1 1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1
+ 1 1 1 0 1 0 0 1 1 1 0 0 0 1 0 1 1 0 1 1 1 0 0 1 0 1 0 1 1 1 1 1 1 0 1 0 1
+ 0 0 0 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 0 0 1 1 1
+ 1 1 0 1 1 1 1 0 0 0 1 1 1 1 0 1 1 0 0 1 1 1 1 1 0 1 1 1 1 0 1 1 0 1 0 0 0
+ 1 1 1 0 0 0 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 1 0 0
+ 1 1 0 1 1 1 1 0 0 0 1 1 0 1 0 0 1 1 0 1 1 1 0 0 1 0 1 1 1 1 0 0 1 1 1 0 1
+ 1 0 1 1 1 1 1 0 1 0 0 1 0 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 1
+ 1 1 0 1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 1 0 0 1 0 1 0 1 1 1 1 0 0 0 1 1 1 0 1
+ 1 1 0 1 1 1 1 1 1 0 1 1 0 1 0 0 0 0 1 1 1 1 1 0 0 0 1 1 0 1 1 1 1 0 1 0 0
+ 0 0 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 1 0 1 1 0 1 0 1 1 1 0 1 0
+ 1 1 1 0 1 0 1 1 0 0 0 1 1 1 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 0 1 0 1 0 1 0 1
+ 1 1 0 1 1 1 1 0 0 1 0 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 0 0 1 1 1 0 1 1 0 1 1
+ 0 0 1 0 1 1 0 0 0 0 1 1 0 0 0 0 1 0]
+2023-04-12 11:39:43,399 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-04-12 11:39:44,376 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17185280617164897, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 0 1
+ 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 1 1 1 1 1 0 0
+ 0 1 1 1 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 0 1 1 0 0 0 0 1 1 1 1 0 0 1 0
+ 1 1 0 1 1 0 0 0 1 0 1 0 1 0 0 1 1 0 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1
+ 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1 0 1
+ 1 1 0 1 1 0 1 1 1 0 0 1 0 0 0 1 1 1 0 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1
+ 0 0 0 1 0 1 1 1 1 0 1 1 1 0 1 1 1 1 0 0 1 0 0 1 0 1 0 0 1 0 1 0 1 0 0 1 0
+ 1 1 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1 0 1 0 1 1 0 1 0 1 1 1 1 1 1 0 1 0 0
+ 0 1 1 0 0 1 1 1 0 1 1 1 0 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 0 1 0 0 1 1 0 1
+ 1 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 0 1 1 1 1 0 0 1 1 0 1 1 1 0 1 0 1 1 1 1 1
+ 1 0 1 1 0 0 1 0 1 1 1 1 1 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 0 1 1 0 0 0 1 1
+ 1 1 1 0 1 1 1 0 1 1 1 1 1 0 0 1 0 1 0 1 1 0 1 0 1 0 1 0 1 0 0 0 1 1 1 0 1
+ 0 1 1 0 0 0 1 1 1 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 0 0 1 1 1 1 1
+ 0 0 0 1 0 1 0 0 1 1 1 1 1 1 0 1 0 0 0 0 0 1 0 0 1 0 1 1 1 1 0 1 1 1 1 1 1
+ 0 1 1 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 1
+ 1 0 1 0 1 0 1 0 1 1 0 1 0 0 1 1 1 0]
+2023-05-05 23:21:28,978 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-05-05 23:21:29,960 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19470858244937317, best pos: [0 0 1 1 0 0 1 0 1 1 1 1 1 0 0 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 0 1 1 1 1 0 1
+ 1 0 1 1 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 1 1 0 1 0 1 1 0 0 0 1 1 1 1 1 0 1 0
+ 1 1 1 1 1 0 1 0 1 0 1 0 1 1 0 1 1 1 0 1 1 0 1 1 1 1 1 0 1 1 1 1 0 0 0 0 1
+ 0 1 0 1 1 1 0 0 0 1 1 0 1 0 0 1 1 1 1 1 1 0 1 0 0 1 1 0 1 1 1 1 0 1 1 0 1
+ 1 1 1 0 0 0 1 1 1 1 1 1 0 1 0 1 1 0 1 1 0 1 0 1 1 0 1 1 1 0 0 1 0 1 0 0 0
+ 1 1 1 0 0 0 1 0 1 1 1 1 0 0 0 1 1 0 1 1 1 1 1 0 1 0 0 1 1 1 0 0 1 1 1 1 1
+ 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 1 1 0 1 1 0
+ 1 0 0 1 1 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1 0 0 1 1 1 1 1 1 0 1 1
+ 0 0 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 0 0 0 0 1 1 0 0 1 1 1 1 0 0 1 0 1 1 1
+ 0 1 1 0 1 1 1 1 1 1 0 1 0 1 0 0 0 1 1 1 0 1 0 1 1 1 0 1 0 0 0 0 1 1 1 1 0
+ 0 0 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0
+ 1 1 0 1 0 0 0 0 0 0 1 1 1 0 1 1 0 1 1 1 0 1 0 1 1 0 0 0 1 1 1 0 1 1 1 1 0
+ 1 1 1 1 1 0 1 0 0 0 1 0 0 1 0 1 1 0 0 1 1 0 0 1 1 0 0 1 1 0 0 1 1 1 1 1 1
+ 1 1 1 0 0 0 0 1 0 1 1 0 0 0 1 0 0 1 1 0 1 1 0 1 1 0 1 0 1 0 0 0 1 0 0 1 1
+ 1 0 0 1 0 1 0 1 0 1 0 0 1 1 0 0 0 0 1 1 0 1 0 0 0 1 0 0 1 0 0 0 0 0 1 1 1
+ 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 1 1]
+2023-05-07 15:40:55,255 - kivy - WARNING - Config: Older configuration version detected (0 instead of 24)
+2023-05-07 15:40:55,256 - kivy - WARNING - Config: Upgrading configuration in progress.
+2023-05-07 15:40:55,261 - kivy - INFO - Logger: Record log in C:\Users\cheth\.kivy\logs\kivy_23-05-07_0.txt
+2023-05-07 15:40:55,260 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.3.3
+2023-05-07 15:40:55,261 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2023-05-07 15:40:55,261 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.4.5
+2023-05-07 15:40:55,262 - kivy - INFO - Kivy: v2.1.0
+2023-05-07 15:40:55,262 - kivy - INFO - Kivy: Installed at "D:\final project\pro\pro\venv\lib\site-packages\kivy\__init__.py"
+2023-05-07 15:40:55,262 - kivy - INFO - Python: v3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]
+2023-05-07 15:40:55,262 - kivy - INFO - Python: Interpreter at "D:\final project\pro\pro\venv\Scripts\python.exe"
+2023-05-07 15:40:55,263 - kivy - INFO - Logger: Purge log fired. Processing...
+2023-05-07 15:40:55,263 - kivy - INFO - Logger: Purge finished!
+2023-05-07 15:40:55,363 - kivy - INFO - Factory: 189 symbols loaded
+2023-05-07 15:40:55,690 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2023-05-07 15:40:55,920 - kivy - INFO - Text: Provider: sdl2
+2023-05-07 15:40:56,085 - kivy - INFO - Window: Provider: sdl2
+2023-05-07 15:40:56,715 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2023-05-07 15:40:56,726 - kivy - INFO - GL: GLEW initialization succeeded
+2023-05-07 15:40:56,727 - kivy - INFO - GL: Backend used <glew>
+2023-05-07 15:40:56,728 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.14.220712'>
+2023-05-07 15:40:56,728 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2023-05-07 15:40:56,728 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2023-05-07 15:40:56,728 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2023-05-07 15:40:56,729 - kivy - INFO - GL: Shading version <b'4.60'>
+2023-05-07 15:40:56,729 - kivy - INFO - GL: Texture max size <16384>
+2023-05-07 15:40:56,729 - kivy - INFO - GL: Texture max units <32>
+2023-05-07 15:40:57,161 - kivy - INFO - Window: auto add sdl2 input provider
+2023-05-07 15:40:57,163 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2023-05-07 15:40:57,179 - kivy - INFO - Base: Start application main loop
+2023-05-07 15:40:57,193 - kivy - INFO - GL: NPOT texture support is available
+2023-05-07 15:42:37,412 - kivy - WARNING - stderr: D:\final project\pro\pro\venv\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+2023-05-07 15:42:37,412 - kivy - WARNING - stderr:   _warn_prf(average, modifier, msg_start, len(result))
+2023-05-07 15:42:37,413 - kivy - WARNING - stderr: D:\final project\pro\pro\venv\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+2023-05-07 15:42:37,413 - kivy - WARNING - stderr:   _warn_prf(average, modifier, msg_start, len(result))
+2023-05-07 15:42:48,307 - kivy - WARNING - stderr: D:\final project\pro\pro\venv\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+2023-05-07 15:42:48,307 - kivy - WARNING - stderr:   _warn_prf(average, modifier, msg_start, len(result))
+2023-05-07 15:42:52,302 - kivy - WARNING - stderr: D:\final project\pro\pro\venv\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+2023-05-07 15:42:52,302 - kivy - WARNING - stderr:   _warn_prf(average, modifier, msg_start, len(result))
+2023-05-07 15:42:52,302 - kivy - WARNING - stderr: D:\final project\pro\pro\venv\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+2023-05-07 15:42:52,302 - kivy - WARNING - stderr:   _warn_prf(average, modifier, msg_start, len(result))
+2023-05-07 15:43:00,639 - kivy - WARNING - stderr: D:\final project\pro\pro\venv\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+2023-05-07 15:43:00,639 - kivy - WARNING - stderr:   _warn_prf(average, modifier, msg_start, len(result))
+2023-05-07 15:43:00,640 - kivy - WARNING - stderr: D:\final project\pro\pro\venv\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+2023-05-07 15:43:00,640 - kivy - WARNING - stderr:   _warn_prf(average, modifier, msg_start, len(result))
+2023-05-07 15:43:08,642 - kivy - WARNING - stderr: D:\final project\pro\pro\venv\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+2023-05-07 15:43:08,642 - kivy - WARNING - stderr:   _warn_prf(average, modifier, msg_start, len(result))
+2023-05-07 15:43:11,900 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-05-08 20:33:15,626 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-05-08 20:33:16,631 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17476999035679844, best pos: [1 1 1 0 1 1 1 0 1 1 1 1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 1
+ 0 0 1 0 1 0 0 1 0 1 1 1 1 0 1 1 0 1 1 1 0 0 1 1 0 1 1 1 1 0 0 0 1 0 1 1 1
+ 0 1 1 0 1 1 1 0 1 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 0 1 1 1 1 1 1 1 1 0 1
+ 0 1 0 0 1 1 0 1 1 0 0 1 1 0 1 1 1 0 0 1 1 0 1 0 0 0 1 1 1 1 1 1 0 0 0 1 0
+ 1 1 0 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 0 0 0 1 1 0 0 0 1 0 1 1 0 1 1 1
+ 1 0 1 1 0 1 1 1 1 1 0 1 1 1 0 1 1 1 0 0 0 1 1 1 1 0 0 0 0 1 0 1 1 0 1 1 1
+ 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 1 1 1 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 0
+ 1 0 1 0 1 1 1 0 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 0 1 0 1 0 1 1
+ 1 1 0 1 0 1 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 1 0 1 1 1 0 0 1 1 1 1 1 1 1 0 0
+ 1 0 0 0 1 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 1 0 0 1 0 1 0 0
+ 1 1 1 1 1 1 1 1 0 0 1 0 0 1 0 0 1 0 1 1 1 0 0 1 1 0 0 1 1 1 1 0 1 1 0 0 0
+ 0 1 0 1 0 1 0 0 0 1 1 0 1 1 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 0 0 1
+ 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 0 1 1 0 0 1 1 0 1 0 1 0 1 1 1 0 1
+ 1 0 0 1 0 0 1 1 1 1 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 0 0 1 1 1 1
+ 1 0 1 1 0 0 1 0 0 1 1 0 0 0 1 1 1 1 0 1 0 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1
+ 1 0 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0]
+2023-05-19 23:37:34,856 - pyswarms.discrete.binary - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 5, 'p': 2}
+2023-05-19 23:37:35,547 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.17629855351976853, best pos: [1 1 1 0 0 0 1 0 0 1 1 0 1 1 0 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 0 1 0 1 1 1
+ 1 0 0 0 0 1 1 0 1 1 1 0 1 1 1 0 1 1 0 0 0 1 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1
+ 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1 1 0 0 0 1 1 1 0 0 1 1 0 1
+ 1 0 0 0 0 1 1 1 0 1 1 1 1 1 1 1 1 0 1 0 0 1 1 0 1 1 0 1 1 0 1 1 0 0 0 1 1
+ 0 1 0 0 1 0 1 1 0 1 1 1 0 1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1
+ 0 0 1 0 1 0 0 1 0 1 0 1 0 1 0 0 1 0 1 1 1 1 0 1 0 1 0 0 1 0 1 1 1 0 0 1 1
+ 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 0 1 0 0 1 1 1 0 0 1 0 1 1 1 1 0
+ 0 1 0 0 1 1 1 0 1 1 0 1 0 0 0 1 1 0 0 1 1 1 0 1 1 1 0 1 0 1 0 1 0 0 0 1 0
+ 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 0 0 0 1 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 1
+ 0 1 0 0 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 1 0 0 1 1 0 1 1
+ 1 1 1 1 0 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0 0 1 1 0 1 1 0 1 1 1 1 1 1 0 1 1 1
+ 0 1 1 1 1 1 0 0 0 1 1 0 1 1 1 0 0 0 1 1 1 1 0 1 1 1 1 0 1 0 0 1 0 1 1 1 1
+ 0 1 0 0 1 1 1 1 0 1 1 1 0 1 1 1 1 1 1 1 0 0 1 1 1 1 1 0 1 0 1 0 1 0 1 0 1
+ 0 1 1 1 0 1 0 0 1 1 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 1 0 0 0 1 0 1 1 1 0 0 1
+ 0 0 1 0 0 0 1 1 1 0 0 1 1 1 1 0 1 1 1 1 0 1 0 0 0 0 0 1 1 1 0 1 0 0 1 1 1
+ 1 0 1 0 0 1 0 0 1 0 0 1 1 1 0 1 1 0]
