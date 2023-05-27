@@ -7,7 +7,8 @@ Steps to run the project:-</br>
 • Install all the python libraries </br>
 • Run the UI.py file</br>
 • Once the user interface pops up, press on "IMPORT" to import the required dataset.</br>
-• Execute all the ML algorithm • Press graph button to view graphical representation of executed ML model.</br>
+• Execute all the ML algorithm </br>
+• Press graph button to view graphical representation of executed ML model.</br>
 </br>
 Packages required:- </br>
 pip install numpy==1.18.1 </br>
